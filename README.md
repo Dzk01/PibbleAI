@@ -35,7 +35,7 @@ O destaque principal é a integração de um modelo 3D interativo, criando uma e
 
 ## 📸 Preview
 
-![Preview do projeto](./pibble-img.png)
+![Preview](./assets/pibble-img.png)
 
 ---
 
